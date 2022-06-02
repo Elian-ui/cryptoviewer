@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cryptoviewer/static/css/main.a1bc8792.css",
+    "main.js": "/cryptoviewer/static/js/main.88330d50.js",
+    "index.html": "/cryptoviewer/index.html",
+    "main.a1bc8792.css.map": "/cryptoviewer/static/css/main.a1bc8792.css.map",
+    "main.88330d50.js.map": "/cryptoviewer/static/js/main.88330d50.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a1bc8792.css",
+    "static/js/main.88330d50.js"
+  ]
+}
