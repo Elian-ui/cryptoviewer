@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/krypt/static/css/main.a1bc8792.css",
-    "main.js": "/krypt/static/js/main.9fafd3c4.js",
-    "index.html": "/krypt/index.html",
-    "main.a1bc8792.css.map": "/krypt/static/css/main.a1bc8792.css.map",
-    "main.9fafd3c4.js.map": "/krypt/static/js/main.9fafd3c4.js.map"
+    "main.css": "/cryptoviewer/static/css/main.a1bc8792.css",
+    "main.js": "/cryptoviewer/static/js/main.9fafd3c4.js",
+    "index.html": "/cryptoviewer/index.html",
+    "main.a1bc8792.css.map": "/cryptoviewer/static/css/main.a1bc8792.css.map",
+    "main.9fafd3c4.js.map": "/cryptoviewer/static/js/main.9fafd3c4.js.map"
   },
   "entrypoints": [
     "static/css/main.a1bc8792.css",
